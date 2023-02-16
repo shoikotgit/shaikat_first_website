@@ -1,0 +1,22 @@
+.dhaka{
+    font-size: 30px;
+    font-style: italic;
+    color: brown;
+    background-color: aqua;
+}
+.dream{
+    font: bold;
+    font-size: 25px;
+    background-color: yellowgreen;
+    border: 1px solid red;
+    border-radius: 20px;
+    width: 20%;
+    height: 50%;
+    border-radius: 30px;
+    margin: 1%;
+    padding: 30px 50px;
+    display: inline-block;
+}
+h3{
+    text-align: center;
+}
